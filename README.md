@@ -19,3 +19,9 @@ npm install cheerio
 //nodemon
 npm install nodemon
 ```
+
+## RUN
+to run this script just type 
+```bash
+npm run start
+```
